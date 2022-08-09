@@ -30,3 +30,5 @@ Cool changes !
 ```{r}
 yeehaw<-c(1,2,3)
 ```
+
+wow lots of good git hubbings today :)
